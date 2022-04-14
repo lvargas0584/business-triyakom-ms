@@ -1,4 +1,4 @@
-# business-bemobi-ms project
+# business-tryakom-ms project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
